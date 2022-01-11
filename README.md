@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ico Lizhen
 
 <!--
 **icoliz/icoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Front-end development student in Adalab. Prior to that, graphic designer for digital media and illustrator. Data visualization enthusiast, too.
