@@ -1,5 +1,9 @@
 # Ico Lizhen
+
+![Badge](https://shields.io/badge/DEV-ICO%20LIZHEN-9cf?style=for-the-badge)
+
 ## About me
+
 Front-end development student in [Adalab](https://github.com/Adalab).
 Prior to that, graphic designer for digital media and illustrator.
 
