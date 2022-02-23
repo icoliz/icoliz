@@ -21,7 +21,7 @@ _See collaborators in project description_
 - [Las Mari's Card Generator](http://beta.adalab.es/project-promo-o-module-2-team-9/card.html)
 - [Refactoring Team 2 Card Generator with React](http://beta.adalab.es/project-promo-o-module-1-team-4/)
 
-[^2]: Designed and developed by me
+[^1]: Designed and developed by me
 
 🌱 I’m currently learning **Back-end development using NodeJS**
 ✉️ You can reach me on **icolizhen[at]gmail[dot]com**
