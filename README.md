@@ -1,29 +1,26 @@
 # Ico Lizhen
 
-![Badge](https://shields.io/badge/DEV-ICO%20LIZHEN-9cf?style=for-the-badge)
-
 ## About me
 
-Front-end development student in [Adalab](https://github.com/Adalab).
+Front-end developer.
 Prior to that, graphic designer for digital media and illustrator.
 
 ### Projects
-I have programmed in Vainilla JavaScript and worked with React framework. Some of the work developed during this journey can be found here:
+I have programmed in Vainilla JavaScript and worked with React framework. I have also learnt some back-end development basics. Some of the work developed during this journey can be found here:
 
 **Solo projects**
-- HTML 5 & CSS 3: [Anonymous Proxy Website](http://beta.adalab.es/modulo-1-evaluacion-final-icoliz/), [Spotify](https://icoliz.github.io/global-exercise-spotify/)
-- Vainilla JavaScript: [Anime Browser](http://beta.adalab.es/modulo-2-evaluacion-final-icoliz/)[^1]
+- HTML 5 & CSS 3: [Anonymous Proxy Website](https://github.com/icoliz/anonymous-proxy), [Spotify](https://icoliz.github.io/global-exercise-spotify/)
+- Vainilla JavaScript: [Anime Browser](https://github.com/icoliz/anime-browser)[^1]
 - React: [Harry Potter Characters Browser](https://github.com/icoliz/harry-potter)[^1], [Twitter](https://icoliz.github.io/global-exercise-twitter/), 
 
 **Team projects**
 _See collaborators in project description_
 - [Super Programmers Website](http://beta.adalab.es/project-promo-o-module-1-team-4/) 
 - [Las Mari's Card Generator](http://beta.adalab.es/project-promo-o-module-2-team-9/card.html)
-- [Refactoring Team 2 Card Generator with React](http://beta.adalab.es/project-promo-o-module-1-team-4/)
 
 [^1]: Designed and developed by me
 
-🌱 I’m currently learning **Back-end development using NodeJS**
+🌱 I’m currently learning about **Web Components, Testing & Accesibility**
 ✉️ You can reach me on **icolizhen[at]gmail[dot]com**
 
 You can find my designs here:
